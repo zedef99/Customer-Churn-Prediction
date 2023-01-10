@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer Churn Prediction
 In this repository you can find:
 - the notebook with the code
 - the dataset used that comes from Kaggle
